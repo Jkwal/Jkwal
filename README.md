@@ -1,5 +1,3 @@
-# About Me:
-
 Hi, there!
 
 I am a web developer with a strong desire to grow, learn new technologies, and apply them in practice.
